@@ -13,6 +13,8 @@ body {
   justify-content: center;
 
   max-width: 95vw;
+
+  margin-bottom: 4rem;
 }
 
 h2 {
@@ -45,4 +47,8 @@ figcaption {
 
 figcaption a {
   color: rgb(18, 79, 90);
+}
+
+footer {
+  border-top: black solid .2rem;
 }
