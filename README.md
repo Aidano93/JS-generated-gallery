@@ -1,9 +1,9 @@
 # CPNT262-A2
 Aidan O'Reilly
 
-GH Repo:
+GH Repo: https://github.com/Aidano93/cpnt262-a2
 
-GH Pages:
+GH Pages: https://aidano93.github.io/cpnt262-a2/
 
 ## Description:
 A dynamic, responsive image gallery created using an object array and `forEach()` method.
