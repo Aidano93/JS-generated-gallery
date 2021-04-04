@@ -1,9 +1,9 @@
 # CPNT262-A2
 Aidan O'Reilly
 
-GH Repo: https://github.com/Aidano93/cpnt262-a2
+GH Repo: https://github.com/Aidano93/JS-generated-gallery
 
-GH Pages: https://aidano93.github.io/cpnt262-a2/
+GH Pages: https://aidano93.github.io/JS-generated-gallery
 
 ## Description:
 A dynamic, responsive image gallery created using an object array and `forEach()` method.
